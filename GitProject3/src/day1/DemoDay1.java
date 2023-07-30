@@ -22,4 +22,9 @@ public class DemoDay1 {
 		
 		System.out.println(" cat meows ");
 	}
+	
+	public static void state() {
+		
+		System.out.println(" Louisiana ");
+	}
 }
