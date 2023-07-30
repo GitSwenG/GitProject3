@@ -12,4 +12,9 @@ public class DemoDay1 {
 		
 		System.out.println(" today");
 	}
+	
+	public static void location() {
+		
+		System.out.println(" there ");
+	}
 }
