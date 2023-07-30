@@ -17,4 +17,9 @@ public class DemoDay1 {
 		
 		System.out.println(" there ");
 	}
+
+		public static void animal() {
+		
+		System.out.println(" cat meows ");
+	}
 }
